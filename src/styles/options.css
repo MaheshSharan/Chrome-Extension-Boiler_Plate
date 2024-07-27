@@ -1,0 +1,23 @@
+body {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .options {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  select {
+    margin-bottom: 10px;
+  }
+  
+  #status {
+    margin-top: 10px;
+    color: green;
+  }
